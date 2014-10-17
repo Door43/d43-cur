@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cur:home|Door43 (cur)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cur|d43-cur repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cur/archive/master.zip|d43-cur.zip]]
+
+**Recent Changes**
+{{changes>ns = cur}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cur|Ethnologue data]]
+
